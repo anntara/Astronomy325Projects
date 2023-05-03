@@ -1,2 +1,3 @@
 # Astronomy325Projects
 Astronimical Research Projects
+As a student, I gained experience analyzing and addressing research challenges through the AST325/326 course. I was able to integrate core astronomy curriculum material with state-of-the-art technical coursework, and received instruction in modern astronomical techniques. This advanced learning environment allowed me to become adept in using research methods and tools that form the foundation of modern practical methods in physical sciences. I gained skills that will serve me well in my pursuit of advanced professional skills and graduate school in astronomy and astrophysics, as well as in applying my astronomy knowledge in broader contexts such as remote sensing or medical imaging.
